@@ -1,8 +1,6 @@
 name: pc05
-channels:
-    - anaconda
 dependencies:
     - numpy
     - scipy
     - bokeh
-    #- gcc
+    - gfortran_linux-64
