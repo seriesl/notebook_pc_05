@@ -1,6 +1,8 @@
 name: pc05
+channel:
+    - anaconda
 dependencies:
     - numpy
     - scipy
     - bokeh
-    #- gcc
+    - gcc
